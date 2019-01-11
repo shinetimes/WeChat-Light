@@ -1,2 +1,1 @@
-# wechat-light
-WeChat 的开发资源
+### WeChat 的开发资源
